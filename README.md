@@ -36,6 +36,8 @@ This system is based on a Streamlit web application. Follow these steps to insta
 
 ## Technologies Used
 - **Natural Language Toolkit (nltk)**  
+- **Term Frequency-Inverse Document Frequency (TF-IDF)**  
+- **Cosine Similarity**  
 - **Python**  
 - **Pandas**  
 - **NumPy**  
@@ -44,6 +46,5 @@ This system is based on a Streamlit web application. Follow these steps to insta
 
 ---
 
-Feel free to let me know if additional sections are required or if you'd like this further customized!"
-}
+Feel free to let me know if additional sections are required or if you'd like this further customized!
 
