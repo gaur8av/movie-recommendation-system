@@ -46,5 +46,4 @@ This system is based on a Streamlit web application. Follow these steps to insta
 
 ---
 
-Feel free to let me know if additional sections are required or if you'd like this further customized!
 
